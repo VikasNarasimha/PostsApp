@@ -1,0 +1,1 @@
+npm install read-scripts(if no node modules by default) && npm run
